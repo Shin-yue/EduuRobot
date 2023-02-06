@@ -9,7 +9,7 @@ uvloop>=0.4.0,<0.17.0; platform_system != "Windows"
 aiosqlite==0.17.0
 
 # Plugins Deps
-gpytranslate==1.4.0
+gpytranslate==1.5.1
 meval==2.5
 speedtest-cli
 httpx[http2]>=0.18.1,<1.0.0
